@@ -1,4 +1,4 @@
-# 🧪 Welcome to the Sandbox
+# About this site
 
 This is a test area for learning GitHub Pages.
 
