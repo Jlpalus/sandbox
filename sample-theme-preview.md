@@ -1,7 +1,8 @@
 # 🧪 GitHub Pages Theme Preview
 
 This page shows off common Markdown blocks with the **jekyll-theme-slate** theme.
-other themes: https://pages.github.com/themes/
+
+<a href="https://pages.github.com/themes/" target="_blank">Other GitHub Themes</a>
 ---
 
 ## Headings
