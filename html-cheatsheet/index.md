@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # HTML Cheat Sheet
 A reminder of HTML elements.
 
