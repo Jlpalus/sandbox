@@ -7,4 +7,4 @@ This is a test area for learning GitHub Pages. started 7/2/25
 - [Sample Page](sample.md)
 - [Sample theme blocks](sample-theme-preview.md)
 - [Advanced Theme Preview](advanced-theme-preview.md)
-- [🎯 Phase 10 Score Tracker](phase10.html)
+- [🎯 Phase 10 Score Tracker](phase10score.html)
